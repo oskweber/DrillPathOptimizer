@@ -1,7 +1,7 @@
 
 # Drill Path Optimizer
 
-The Drill Path Optimizer is a Python application designed to find the optimal path for drilling operations using various optimization algorithms such as Nearest Neighbor, 2-opt, 3-opt, and Linear Programming with Gurobi. It provides an intuitive GUI for selecting input files and running optimizations.
+The Drill Path Optimizer is a Python application designed to find the optimal path for drilling operations, such that all drilling places are visited using various optimization algorithms such as Nearest Neighbor, 2-opt, 3-opt, and Linear Programming with Gurobi. It provides an intuitive GUI for selecting input files and running optimizations.
 
 ## Table of Contents
 - [Features](#features)
